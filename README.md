@@ -1,4 +1,4 @@
-# 🚀 Minha Jornada: Inteligência Artificial aplicada à Administração
+ 🚀 Minha Jornada: Inteligência Artificial aplicada à Administração
 
 Bem-vindo ao meu primeiro projeto no GitHub! Este espaço foi criado para documentar minha transição para a área de tecnologia e registrar como a Inteligência Artificial pode ser uma aliada estratégica na gestão e nas rotinas administrativas.
 
